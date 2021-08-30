@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VangelisPalaskas
-- 👀 I’m interested in Data Visualisation, Analysis, Cloud apps & Library Science
+- 👀 I’m interested in Data Visualisation, Data Analytics, Cloud apps & Library Science
 - 🌱 I’m currently learning more about Cloud Apps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the aforementioned aspects
 - 📫 How to reach me Evangelos.palaskas@kuleuven.be
 
 <!---
